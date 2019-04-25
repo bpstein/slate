@@ -6,9 +6,6 @@ language_tabs: # must be one of https://git.io/vQNgJ
   - python
   - javascript
 
-includes:
-  - errors
-
 search: true
 ---
 
